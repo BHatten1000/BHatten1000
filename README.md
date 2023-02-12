@@ -9,6 +9,7 @@
 
 <h2> Certifications
 
+  [<img align="left" alt="CompTIA A+" width="80px" src="https://i.imgur.com/3K7WBoxs.png" />] <img align="left" alt="CompTIA Network+" width="80px" src="https://i.imgur.com/Z4LYRjYs.png" /> <img align="left" alt="CompTIA Security+" width="80px" src="https://i.imgur.com/tLipSQTs.png" /> <img align="left" alt="CompTIA CIOS" width="80px" src="https://i.imgur.com/57r2HwW.png" /> <img align="left" alt="CompTIA CSIS" width="80px" src="https://i.imgur.com/NGrcdfp.png" /> <img align="left" alt="CompTIA Project+" width="80px" src="https://i.imgur.com/rgqClpb.png" />
 
 <h2> 🤳 Connect with me:</h2>
 
