@@ -22,8 +22,7 @@
  </table>
 
 ### 🤳 Connect with me:
-  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [linkedin]: https://www.linkedin.com/in/brandon-hatten-55a613262/
+  <a href="[https://google.com](https://www.linkedin.com/in/brandon-hatten-55a613262/)"><img align="left" alt="BrandonHatten | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <!-- **BHatten1000/BHatten1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
