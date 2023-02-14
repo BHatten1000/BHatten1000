@@ -8,7 +8,7 @@
   - [Email Signature Form and Creation]
 
 ## Active Certifications:
-  <a href="https://google.com" target="_blank"><img align="left" alt="CompTIA A+" width="80px" src="https://i.imgur.com/3K7WBox.png" /></a>
+  <a href="https://google.com" target="__blank"><img align="left" alt="CompTIA A+" width="80px" src="https://i.imgur.com/3K7WBox.png" /></a>
   <img align="left" alt="CompTIA Network+" width="80px" src="https://i.imgur.com/Z4LYRjY.png" />
   <img align="left" alt="CompTIA Security+" width="80px" src="https://i.imgur.com/tLipSQT.png" />
   <img align="left" alt="CompTIA CIOS" width="80px" src="https://i.imgur.com/57r2HwW.png" />
