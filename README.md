@@ -4,8 +4,8 @@
 
 ### PowerShell
   - [Active Directory Home Lab](https://github.com/BHatten1000/Active-Directory-Lab)
-  - [FIM (File Integrity Monitor)]
-  - [Email Signature Form and Creation]
+  - [FIM (File Integrity Monitor)]--Work in Progress
+  - [Email Signature Form and Creation]--Work in Progress
 
 ### Active Certifications:
  <table>
