@@ -20,6 +20,8 @@
     <td><a href="https://www.comptia.org/certifications/project"><img alt="CompTIA Project+" width="80px" src="https://i.imgur.com/rgqClpb.png" /></td>
     <td><a href="https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/"><img alt="365 Fundamentals" width="80px" src="https://i.imgur.com/ZNWHpXu.png" /></td>
     <td><a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"><img alt="Azure Fundamentals" width="80px" src="https://i.imgur.com/6Gj2onx.png" /></td>
+    <td><a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"><img alt="LPI Linux Essentials" width="80px" src="https://i.imgur.com/TIjTq0B.png"
+/></td>                                                                                        
   </tr>
  </table>
 
